@@ -1,5 +1,4 @@
-# Creating a Navigation Hierarchy
+# Scrumdinger
 
-## Completed Project
 
-Explore the completed project for [Creating a Navigation Hierarchy](https://developer.apple.com/tutorials/app-dev-training/creating-a-navigation-hierarchy).
+https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger
